@@ -17,6 +17,7 @@ This project is a comprehensive eCommerce web application designed to provide us
 ## Built With
 
 - [React.js](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [React Router](https://reactrouter.com/)
 - [Netlify](https://www.netlify.com) for hosting
