@@ -67,3 +67,6 @@ Contributions are welcome! If you’d like to contribute, please follow these st
 
 ## Contact
 
+Feel free to reach out to me:
+
+[LinkedIn](https://linkedin.com/in/maria-jaroszewska)
